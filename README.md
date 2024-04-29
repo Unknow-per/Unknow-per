@@ -5,4 +5,4 @@
 - Funny fact: print("secret_password")
 - 📫 How to reach me
 
-  <a href="https://www.linkedin.com/in/farbod-parkhooi"> Linkedin </a>
+  <a href="https://www.linkedin.com/in/farbod-parkhooi-59b2612a7/"> Linkedin </a>
