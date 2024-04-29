@@ -2,9 +2,9 @@
 - 👀 I’m interested in Programming(Python, Front-end, ...), Math
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on @Muhammad-Mirab
-- Funny fact: print("secret_password")
+- 😂 Funny fact: print("secret_password") is for hackers :)
 - 📫 How to reach me
 
   <a href="https://www.linkedin.com/in/farbod-parkhooi-59b2612a7/"> Linkedin </a>
 
-  <a href="farbod.p1390@gmail.com"> Email </a>
+  Email: farbod.p1390@gmail.com
