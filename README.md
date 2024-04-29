@@ -6,3 +6,5 @@
 - 📫 How to reach me
 
   <a href="https://www.linkedin.com/in/farbod-parkhooi-59b2612a7/"> Linkedin </a>
+
+  <a href="farbod.p1390@gmail.com"> Email </a>
